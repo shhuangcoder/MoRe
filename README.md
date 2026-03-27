@@ -1,2 +1,2 @@
 # MoRe
-Compositional Transformation Reasoning for Composed Video Retrieval
+Paper: Compositional Transformation Reasoning for Composed Video Retrieval
