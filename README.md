@@ -40,9 +40,14 @@ WebVid-CoVR: https://imagine.enpc.fr/~ventural/covr/<br>
 
 ```
 
-<a name="evaluation"></a>
 
-## Retrieval
+## Stage-1 ROVCS
+
+```
+
+```
+
+## Stage-2 MLLM Pairwise Reasoning
 
 ```
 
@@ -60,5 +65,5 @@ If you find the repository or the paper useful, please use the following entry f
 
 ## Acknowledgement
 
-The codebase is based on [EgoExoLearn](https://github.com/OpenGVLab/EgoExoLearn/tree/main).
+The codebase is based on [EgoCVR](https://github.com/ExplainableML/EgoCVR).
 We thank the authors for their efforts.
