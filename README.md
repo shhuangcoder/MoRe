@@ -51,7 +51,7 @@ Please first use the EgoCVR project [TFR-CVR Stage1](https://github.com/Explaina
 ```
 python Qwen_pairwise_reasoning.py
 ```
-note: Since the inference for each query is independent, if you have multiple GPUs, you can divide the test set into N groups by setting the start_index and end_index parameters in the code, and perform inference in parallel to reduce the overall runtime.
+Note: Since the inference for each query is independent, if you have multiple GPUs, you can divide the test set into N groups by setting the start_index and end_index parameters in the code, and perform inference in parallel to reduce the overall runtime.
 
 Like:
 ```
