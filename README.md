@@ -44,7 +44,7 @@ WebVid-CoVR: https://imagine.enpc.fr/~ventural/covr/<br>
 ## Stage-1 ROVCS
 
 ```
-
+Please first use the EgoCVR project [TFR-CVR Stage1](https://github.com/ExplainableML/EgoCVR) to generate a LanguageBind-based unimodal candidate video ranking CSV file, and then extract the non-dominated solutions.
 ```
 
 ## Stage-2 MLLM Pairwise Reasoning
@@ -55,7 +55,7 @@ WebVid-CoVR: https://imagine.enpc.fr/~ventural/covr/<br>
 
 
 ## Model Zoo
-* You can download xxxx
+* You can download [Qwen2.5VL-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct)
 * 
 ## Citation
 If you find the repository or the paper useful, please use the following entry for citation.
