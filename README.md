@@ -26,6 +26,9 @@ conda activate MoRe
 ```shell
 pip install -r requirements.txt
 ```
+
+4. Setting up the environment for [Qwen2.5VL-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct)
+
 <a name="dataset"></a>
 
 ## Dataset
