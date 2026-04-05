@@ -37,12 +37,6 @@ EgoCVR: https://github.com/ExplainableML/EgoCVR<br>
 WebVid-CoVR: https://imagine.enpc.fr/~ventural/covr/<br>
 
 
-## Association
-
-```
-
-```
-
 
 ## Stage-1 ROVCS
 
